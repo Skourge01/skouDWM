@@ -11,14 +11,19 @@ minha configuracao do dwm para a melhor rapidez
 ## Requisitos:
 - - - 
 - atualize seu sistema para instalar ( em arch linux )
+```
 sudo pacman -Syu 
+```
 ## e instale as dependencias: 
+```
 sudo pacman -S xorg-server xorg-xrandr xorg-xinit libx11 libxft libxinerama 
-
+```
 - - - 
 ## Instalação 
 - - - 
 - clone o repositorio e compile:
+```
 git clone https://github.com/Skourge01/skouDWM.git
-
+```
+- mova a pasta `dwm` para a sua home 
 apos isso coloque o dwm no xinitrc
