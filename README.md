@@ -18,6 +18,7 @@ sudo pacman -Syu
 ```
 sudo pacman -S xorg-server xorg-xrandr xorg-xinit libx11 libxft libxinerama 
 ```
+- dica: execute o script `dependences.sh` para instalar tudo necessario
 - - - 
 ## Instalação 
 - - - 
