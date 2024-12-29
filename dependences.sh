@@ -31,7 +31,7 @@ wget https://mega.nz/linux/repo/Arch_Extra/x86_64/megasync-x86_64.pkg.tar.zst ||
 echo "Instalando pacotes..."
 sudo pacman --noconfirm -S firefox obsidian ttf-fira-code ttf-font-awesome thunar \
     xorg-server xorg-xinit xorg-xrandr libx11 libxft libxinerama \
-    lxappearance materia-gtk-theme feh dmenu easyeffects base-devel && \
+    lxappearance materia-gtk-theme feh dmenu easyeffects base-devel telegram-desktop && \
 sudo pacman -U --noconfirm megasync-x86_64.pkg.tar.zst || {
     echo "Erro na instalação dos pacotes"
     exit 1
