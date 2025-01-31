@@ -1,5 +1,4 @@
 slstatus &
-picom &
 xrandr --output HDMI-1 --left-of eDP-1
-feh --randomize --bg-scale wallpapers
+feh --bg-scale Downloads/ign-0008.jpg
 exec dwm
