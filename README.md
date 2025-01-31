@@ -7,8 +7,7 @@ my config file for DWM
 - alacritty 
 - thunar 
 - vscodium 
-- firefox 
-- skouswalls
+- firefox
 
 
 - GitHub: [Skourge01](https://github.com/Skourge01)
